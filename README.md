@@ -14,3 +14,4 @@ and model was trained successfully and weights were obtained
 # Accuracy
 A mAP score 0.995 was achieved 
 Graphs was obtained using TensorBoard
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
