@@ -1,0 +1,13 @@
+
+
+
+train: "/content/gdrive/MyDrive/YOLO project/train/images" 
+val: "/content/gdrive/MyDrive/YOLO project/val/images"  
+
+# Classes
+nc: 2  
+names: ['no_mask','mask']  # class names
+
+
+# Download script/URL (optional)
+download: https://ultralytics.com/assets/coco128.zip
