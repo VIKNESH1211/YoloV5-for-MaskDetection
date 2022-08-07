@@ -1,4 +1,5 @@
 # YoloV5-for-MaskDetection
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ---
 # Data_set
 The data set comprises of images of people wearing masks and not wearing a mask
